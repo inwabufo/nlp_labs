@@ -1,4 +1,4 @@
-# nlp_wk_1_lab_1
+# nlp
 
 This repository contains an implementation of Naive Bayes and logistic regression using sgd from scratch. We implement both of them as classifiers.
 
